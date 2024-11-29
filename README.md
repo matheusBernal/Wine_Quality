@@ -1,0 +1,1 @@
+A simple project where I work with a wine dataset, performing analyses and developing machine learning algorithms such as linear regression, neural networks, and random forests to predict wine quality and classify wines as red or white
